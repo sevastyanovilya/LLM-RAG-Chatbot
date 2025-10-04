@@ -1,0 +1,6 @@
+{"question": "What is this project?", "reference": "A production-ready RAG chatbot demonstrating ML engineering best practices with local LLM support"}
+{"question": "What technologies does it use?", "reference": "Python 3.11, FastAPI, FAISS for vector search, sentence transformers, and llama.cpp for local inference"}
+{"question": "How do I run it locally?", "reference": "Clone the repository, run make setup to install dependencies, make ingest to build the index, and make run to start the server"}
+{"question": "What are the system requirements?", "reference": "4GB RAM minimum (8GB recommended), 5GB disk space, CPU-only capable, modern multi-core processor"}
+{"question": "Can I use my own documents?", "reference": "Yes, place Markdown, PDF, or text files in data/kb/ directory and run make ingest to rebuild the index"}
+{"question": "How accurate is the retrieval?", "reference": "Achieves over 75% retrieval accuracy and over 60% semantic match with reference answers on evaluation set"}
