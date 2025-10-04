@@ -3,8 +3,8 @@ Production-ready RAG chatbot с векторным поиском (FAISS) и LLM
 
 # LLM RAG Chatbot - Портфолио проект
 
-[![CI Pipeline](https://github.com/yourusername/llm-rag-chatbot/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/llm-rag-chatbot/actions)
-[![Coverage](https://codecov.io/gh/yourusername/llm-rag-chatbot/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/llm-rag-chatbot)
+[![CI Pipeline](https://github.com/yourusername/llm-rag-chatbot/actions/workflows/ci.yml/badge.svg)](https://github.com/sevastyanovilya/llm-rag-chatbot/actions)
+[![Coverage](https://codecov.io/gh/yourusername/llm-rag-chatbot/branch/main/graph/badge.svg)](https://codecov.io/gh/sevastyanovilya/llm-rag-chatbot)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
 
 **Production-ready RAG (Retrieval-Augmented Generation) чатбот**, демонстрирующий best practices ML-инженерии. Отвечает на вопросы, используя векторный поиск по базе знаний с локальным LLM inference (CPU-оптимизирован) или fallback на hosted API.
@@ -28,7 +28,7 @@ Production-ready RAG chatbot с векторным поиском (FAISS) и LLM
 ### Установка
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/yourusername/llm-rag-chatbot.git
+git clone https://github.com/sevastyanovilya/llm-rag-chatbot.git
 cd llm-rag-chatbot
 
 # Настроить окружение
